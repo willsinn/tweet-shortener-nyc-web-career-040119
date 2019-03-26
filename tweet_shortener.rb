@@ -10,8 +10,8 @@ dictionary = {
   'for' => '4',
   'be' => 'b',
   'you' => 'u',
-  "at" => '@',
-  "and" => '&'
+  'at' => '@',
+  'and' => '&'
 }
 end
 
