@@ -15,8 +15,8 @@ dictionary = {
 }
 end
 
-def word_substituter(tweet_string)
-  
+def word_substituter(tweet)
+  tweet.strip 
 end
 
 
